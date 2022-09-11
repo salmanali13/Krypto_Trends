@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Modify this file to customize your launch splash screen -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- <item android:drawable="?android:colorBackground" /> -->
+    <item android:drawable="@color/splash" />
+
+    <!-- You can insert your own image assets here -->
+    
+    <body  
+    android:layout_width="match_parent" 
+    android:layout_height="match_parent" 
+    android:gravity="center"
+    android:color="@color/textcolor"> The Kryo Trends </body>
+    <!-- <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/splashimg" />
+    </item> -->
+</layer-list>

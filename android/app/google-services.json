@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "911856763103",
+    "project_id": "techrhyme-apps",
+    "storage_bucket": "techrhyme-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911856763103:android:5f1e111d6e4e4b121ae96a",
+        "android_client_info": {
+          "package_name": "com.crypto.trends.cryptocurrency.prices.market.cap.cyptographs.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911856763103-84bpcr371et4lr6n4bfm7e33261krcub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvV_VcQVyMiSB12A_g-biaSKyLeO13Zxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911856763103-84bpcr371et4lr6n4bfm7e33261krcub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
